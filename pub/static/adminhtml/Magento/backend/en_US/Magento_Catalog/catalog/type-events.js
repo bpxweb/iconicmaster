@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/fullpackage/vendor/magento/module-catalog/view/adminhtml/web/catalog/type-events.js

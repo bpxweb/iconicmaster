@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/fullpackage/vendor/magento/module-wishlist/view/frontend/web/js/add-to-wishlist.js

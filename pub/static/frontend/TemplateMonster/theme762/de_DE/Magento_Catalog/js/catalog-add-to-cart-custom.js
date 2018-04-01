@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/fullpackage/app/design/frontend/TemplateMonster/theme762/Magento_Catalog/web/js/catalog-add-to-cart-custom.js

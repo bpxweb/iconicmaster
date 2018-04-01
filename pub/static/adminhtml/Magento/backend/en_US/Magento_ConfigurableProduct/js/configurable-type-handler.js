@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/fullpackage/vendor/magento/module-configurable-product/view/adminhtml/web/js/configurable-type-handler.js

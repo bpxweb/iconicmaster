@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/fullpackage/lib/web/mage/backend/bootstrap.js

@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/fullpackage/app/design/frontend/TemplateMonster/framework/web/js/carouselInit.js
